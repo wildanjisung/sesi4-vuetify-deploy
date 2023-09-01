@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>Daftar nama nama Pokemon</h1>
+    <h1>Daftar nama nama Pokemon update dari gihub</h1>
 
     <v-layout>
       <v-flex>
